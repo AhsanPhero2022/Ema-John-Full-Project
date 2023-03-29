@@ -21,10 +21,10 @@
 }
 .btn-cart {
   width: 100%;
-  background: #ffe0b3;
+  background: #a5680d;
   border: 1px solid #95a0a7;
   border-radius: 0px 8px;
-  color: aqua;
+
   position: absolute;
   bottom: 0;
 }
